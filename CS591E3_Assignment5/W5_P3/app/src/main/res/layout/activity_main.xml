@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context="com.example.cs591e3.myapplication.MainActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_width="0dp" >
+
+        <fragment
+            android:id="@+id/choose_letters_id"
+            android:name="com.example.cs591e3.myapplication.ChooseLetterFragment"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            tools:layout="@layout/fragment_choose_letter" />
+
+        <fragment
+            android:id="@+id/hint_id"
+            android:name="com.example.cs591e3.myapplication.HintFragment"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            tools:layout="@layout/fragment_hint" />
+
+    </LinearLayout>
+
+
+    <fragment
+        android:id="@+id/game_state_id"
+        android:name="com.example.cs591e3.myapplication.GameStateFragment"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        tools:layout="@layout/fragment_game_state" />
+
+
+
+</LinearLayout>
