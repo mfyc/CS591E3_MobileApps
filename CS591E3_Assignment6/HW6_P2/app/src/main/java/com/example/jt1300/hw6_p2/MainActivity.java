@@ -31,6 +31,8 @@ public class MainActivity extends AppCompatActivity {
         if(preferences.contains("checked1") && preferences.getBoolean("checked1",false) == true) {
             cb1.setChecked(true);
             bgElement.setBackgroundColor(Color.RED);
+            TV.setText("Red");
+            ET.setText("Red");
         }else {
             cb1.setChecked(false);
         }
@@ -38,6 +40,8 @@ public class MainActivity extends AppCompatActivity {
         if(preferences.contains("checked2") && preferences.getBoolean("checked2",false) == true) {
             cb2.setChecked(true);
             bgElement.setBackgroundColor(Color.GREEN);
+            TV.setText("Green");
+            ET.setText("Green");
         }else {
             cb2.setChecked(false);
         }
@@ -45,6 +49,8 @@ public class MainActivity extends AppCompatActivity {
         if(preferences.contains("checked3") && preferences.getBoolean("checked3",false) == true) {
             cb3.setChecked(true);
             bgElement.setBackgroundColor(Color.BLUE);
+            TV.setText("Blue");
+            ET.setText("Blue");
         }else {
             cb3.setChecked(false);
         }
