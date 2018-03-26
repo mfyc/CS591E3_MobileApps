@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\xadri\OneDrive\Documents\College\CS591E\PS3\W3_P3a\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\xadri\OneDrive\Documents\College\CS591E\PS3\W3_P3a\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_b0d80ae202abf2ab2fa41fff78e63bff827dd99f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xadri\OneDrive\Documents\College\CS591E\PS3\W3_P3a\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca2142b7e6eb955afc256e76ce45a16b0635f010">
+        <dex dex="C:\Users\xadri\OneDrive\Documents\College\CS591E\PS3\W3_P3a\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d708fdf2387a2c4795496e0d1faed3dc51a89e7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xadri\OneDrive\Documents\College\CS591E\PS3\W3_P3a\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="18eea85742c8ed94f9077f8f07e3a55468bb741c">
+        <dex dex="C:\Users\xadri\OneDrive\Documents\College\CS591E\PS3\W3_P3a\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_42718067d17f5e43a6433ad1d2ab812e12173b9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xadri\OneDrive\Documents\College\CS591E\PS3\W3_P3a\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\xadri\OneDrive\Documents\College\CS591E\PS3\W3_P3a\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_d99d8bda6bce13041fa6639b29fd129fde8f202c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xadri\OneDrive\Documents\College\CS591E\PS3\W3_P3a\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\xadri\OneDrive\Documents\College\CS591E\PS3\W3_P3a\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_4e5048b6f42f697c7a26df3264ee3b98a7244d83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xadri\OneDrive\Documents\College\CS591E\PS3\W3_P3a\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\xadri\OneDrive\Documents\College\CS591E\PS3\W3_P3a\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_ec616d6e738e1a383b80a0c13d743bd7dc6dbe00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xadri\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\xadri\OneDrive\Documents\College\CS591E\PS3\W3_P3a\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_6e4b716cacc4a69bef7c71c12c55c2e0075efb5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xadri\OneDrive\Documents\College\CS591E\PS3\W3_P3a\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\xadri\OneDrive\Documents\College\CS591E\PS3\W3_P3a\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_3512efb6d89facf3a0831816b1d835791e4c2f4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xadri\OneDrive\Documents\College\CS591E\PS3\W3_P3a\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\xadri\OneDrive\Documents\College\CS591E\PS3\W3_P3a\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_08bc752e074c836a20be507a6fcaa65564646ae9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xadri\OneDrive\Documents\College\CS591E\PS3\W3_P3a\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\xadri\OneDrive\Documents\College\CS591E\PS3\W3_P3a\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_9cae3c8d59675a8efdf0e85546542fd752896d9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xadri\OneDrive\Documents\College\CS591E\PS3\W3_P3a\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\xadri\OneDrive\Documents\College\CS591E\PS3\W3_P3a\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_46cdfd7f2ecedefa9ecb2106fbc2d79d25770376\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xadri\OneDrive\Documents\College\CS591E\PS3\W3_P3a\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\xadri\OneDrive\Documents\College\CS591E\PS3\W3_P3a\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_a8b8e4aeb5e451b6491ed04e31010ab30787369d\classes.dex" />
+    </item>
+
+</items>
