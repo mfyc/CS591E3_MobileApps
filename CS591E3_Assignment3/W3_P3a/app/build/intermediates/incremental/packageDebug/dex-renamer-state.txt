@@ -1,0 +1,7 @@
+#Sat Feb 10 19:05:40 EST 2018
+base.0=C\:\\Users\\xadri\\OneDrive\\Documents\\College\\CS591E\\PS3\\W3_P3a\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d708fdf2387a2c4795496e0d1faed3dc51a89e7e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\xadri\\OneDrive\\Documents\\College\\CS591E\\PS3\\W3_P3a\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_42718067d17f5e43a6433ad1d2ab812e12173b9a\\classes.dex
+base.1=C\:\\Users\\xadri\\OneDrive\\Documents\\College\\CS591E\\PS3\\W3_P3a\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_42718067d17f5e43a6433ad1d2ab812e12173b9a
+file.0=C\:\\Users\\xadri\\OneDrive\\Documents\\College\\CS591E\\PS3\\W3_P3a\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d708fdf2387a2c4795496e0d1faed3dc51a89e7e\\classes.dex
